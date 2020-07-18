@@ -7,4 +7,6 @@
 	sudo pacman -S picom
 	picom -b
 
-**alpha focus highlight
+**alpha focus highlight**
+
+**anysize**
