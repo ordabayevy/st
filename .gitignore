@@ -1,5 +1,4 @@
 config.h
 patches/*
 st
-st.o
-x.o
+*.o
