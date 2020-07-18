@@ -10,3 +10,5 @@
 **alpha focus highlight**
 
 **anysize**
+
+**bold is not bright**
