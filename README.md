@@ -18,3 +18,5 @@
 **nordtheme**
 
 **scrollback**
+
+**scrollback mouse**
