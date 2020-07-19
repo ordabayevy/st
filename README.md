@@ -20,3 +20,5 @@
 **scrollback**
 
 **scrollback mouse**
+
+**scrollback mouse altscreen**
