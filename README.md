@@ -13,6 +13,8 @@
 
 **bold is not bright**
 
+**hidecursor**
+
 **newterm**
 
 **nordtheme**
