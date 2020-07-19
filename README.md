@@ -12,3 +12,9 @@
 **anysize**
 
 **bold is not bright**
+
+**newterm**
+
+**nordtheme**
+
+**scrollback**
