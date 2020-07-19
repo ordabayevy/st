@@ -24,3 +24,11 @@
 **scrollback mouse**
 
 **scrollback mouse altscreen**
+
+font-size 14
+
+Shortcuts:
+* copy text `alt-c`, paste `alt-v`, selpaste `shift-insert`
+* zoom/reset font-size `alt-down/alt-up/alt-home`
+* scrollback `shift-pgup/shift-pgdown` mouse scrolling
+* New terminal with the same working directory `ctrl-shift-enter`
